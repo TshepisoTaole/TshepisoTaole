@@ -7,6 +7,7 @@
 ![IoT](https://img.shields.io/badge/IoT-MQTT-orange)
 ![Mining](https://img.shields.io/badge/Mining-Technology-darkgreen)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
+[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#)
 
 > I am builder, and enjoy solving my problems hoping someone else has similer problems. 
 
@@ -52,5 +53,5 @@
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tsepiso-taole/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tsepiso-taole/)[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
