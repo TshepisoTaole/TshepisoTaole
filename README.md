@@ -9,7 +9,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#)
 
-> I am builder, and enjoy solving my problems hoping someone else has similer problems. 
+> I am builder, and enjoy tinkering and solving my own problems hoping someone else has similar problems. I am on a jpuney of publicising them.
 
 ---
 
@@ -37,6 +37,10 @@
   Event analysis and hotspot reporting for collision avoidance system performance improvement.
 
 ---
+
+## Learning Open Projects
+
+- [Word2PDF](https://github.com/TshepisoTaole/W2PDF) - simply my version of "I-Love-PDF"
 
 ## Tech Stack
 
