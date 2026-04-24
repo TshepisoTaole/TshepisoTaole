@@ -1,6 +1,6 @@
-# Hi, I'm Cody 👋
+# Hi, I'm Tsepiso 👋
 
-📍 South Africa | ⚙️ Engineer | 💻 IoT, Embedded Systems & Mining Technology
+  📍 South Africa | ⚙️ Electronic Engineer | 💻 IoT, Embedded Systems & Cloud Technologies
 
 ![Engineering](https://img.shields.io/badge/Engineering-Systems-blue)
 ![Embedded](https://img.shields.io/badge/Embedded-ESP32-green)
@@ -8,13 +8,13 @@
 ![Mining](https://img.shields.io/badge/Mining-Technology-darkgreen)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
 
-> I build practical technology solutions across embedded systems, industrial IoT, mining automation, and cloud-connected platforms.
+> I am builder, and enjoy solving my problems hoping someone else has similer problems. 
 
 ---
 
 ## Current Focus
 
-- 🚗 Building a GPS vehicle tracking platform using ESP32, cellular GNSS, and cloud services
+- 🚗 Desinging a GNSS based vehicle tracking platform using ESP32, cellular GNSS, and cloud services
 - ⚙️ Working with industrial communication protocols like RS-485, Modbus TCP, CAN bus, MQTT, and TCP/IP
 - 🏭 Developing mining technology solutions for safety, monitoring, telemetry, and operational visibility
 - ☁️ Exploring AWS, Flutter, Laravel, and modern cloud-hosted systems
@@ -24,13 +24,13 @@
 ## Projects
 
 - **Car Tracker Embedded**  
-  ESP32-based GNSS logger with cellular connectivity, storage, web download mode, and battery monitoring.
+  ESP32-based GNSS logger with cellular connectivity, storage, IMU, web download mode, and battery monitoring.
 
 - **Car Tracker Platform**  
-  Mobile and web platform concept for device management, tracking, alerts, and reporting.
+  Mobile and web platform concept for device management, tracking, alerts, analytics and reporting.
 
 - **Mining IoT Monitoring**  
-  Environmental monitoring using gas, dust, noise, airflow, and telemetry sensors.
+  Underground mining environmental monitoring using gas, dust, noise, airflow, and telemetry sensors.
 
 - **CAS Optimization Dashboards**  
   Event analysis and hotspot reporting for collision avoidance system performance improvement.
@@ -40,7 +40,7 @@
 ## Tech Stack
 
 ### Embedded & Hardware
-`ESP32` `Arduino` `PlatformIO` `UART` `I2C` `SPI` `GNSS` `LTE` `MAX17048`
+`ESP32` `Arduino` `ESP-IDF` `PlatformIO` `UART` `I2C` `SPI` `GNSS` `LTE` `MAX17048`
 
 ### Industrial & Mining
 `RS-485` `Modbus RTU` `Modbus TCP` `CAN bus` `MQTT` `SCADA` `PLC` `Telemetry`
@@ -52,6 +52,5 @@
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- GitHub: [Your GitHub](https://github.com/your-username)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tsepiso-taole/)
+
