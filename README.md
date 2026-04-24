@@ -53,5 +53,5 @@
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tsepiso-taole/)[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tsepiso-taole/)[![LinkedIn](https://www.linkedin.com/in/tsepiso-taole/)(https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
