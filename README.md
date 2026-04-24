@@ -38,7 +38,7 @@
 
 ---
 
-## Learning Open Projects
+## Open Learning Projects
 
 - [Word2PDF](https://github.com/TshepisoTaole/W2PDF) - simply my version of "I-Love-PDF"
 
