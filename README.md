@@ -9,7 +9,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#)
 
-> I am builder, and enjoy tinkering and solving my own problems hoping someone else has similar problems. I am on a jpuney of publicising them.
+> I am builder, and enjoy tinkering and solving my own problems hoping someone else has similar problems. I am on a journey of publicising them.
 
 ---
 
