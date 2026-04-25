@@ -48,7 +48,7 @@
 `ESP32` `Arduino` `ESP-IDF` `PlatformIO` `UART` `I2C` `SPI` `GNSS` `LTE` `MAX17048`
 
 ### Industrial & Mining
-`RS-485` `Modbus RTU` `Modbus TCP` `CAN bus` `MQTT` `InfluxDB`  `SCADA` `PLC` `Telemetry`
+`RS-485` `Modbus RTU` `Modbus TCP` `CAN bus` `MQTT` `InfluxDB` `Websocket` `SCADA` `PLC` `Telemetry`
 
 ### Software & Cloud
 `Flutter` `Laravel` `PHP` `MySQL` `AWS` `GitHub` `Python` `Qt`
